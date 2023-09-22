@@ -58,10 +58,6 @@ To start the application, you can use the following npm scripts:
 
 If you'd like to contribute to BeyondBonds, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to reach out if you have any questions or need further assistance. Happy coding!
+Feel free to reach out if you have any questions or need further assistance.
