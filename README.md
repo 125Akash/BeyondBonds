@@ -20,7 +20,7 @@ To get started with BeyondBonds, follow these steps:
    cd beyondbonds
    ```
 
-2. Install npm dependencies using `concurrently` for both the client and server:
+2. Install npm dependencies of `concurrently` which will furter use for client and server:
 
    ```bash
    npm install
@@ -31,9 +31,9 @@ To get started with BeyondBonds, follow these steps:
 Before running the server, make sure to set up your environment variables in the `.env` file located in the `server` folder. You need to provide the following configurations:
 
 ```env
-MONGODB_URI=your_mongodb_atlas_url
+MONGO_URL = your mongo db url 
 PORT=3001
-JWT_TOKEN=your_secret_jwt_token
+JWT_SECRET='superseceret'
 ```
 
 ## Usage
@@ -56,7 +56,7 @@ To start the application, you can use the following npm scripts:
 
 ## Contributing
 
-If you'd like to contribute to BeyondBonds, please follow our [contribution guidelines](CONTRIBUTING.md).
+If you'd like to contribute to BeyondBonds, Contribute to it
 
 
 
