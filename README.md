@@ -31,7 +31,7 @@ To get started with BeyondBonds, follow these steps:
 Before running the server, make sure to set up your environment variables in the `.env` file located in the `server` folder. You need to provide the following configurations:
 
 ```env
-MONGO_URL = 'mongodb+srv://darkmashllow125:Socialmedia12345@socialmediacluster.hpugkwd.mongodb.net/?retryWrites=true&w=majority'
+MONGO_URL = 'provide in this url ()'
 PORT=3001
 JWT_SECRET='superseceret'
 ```
